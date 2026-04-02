@@ -1,1 +1,7 @@
-Eric Andrey dos Santos
+Eric Andrey dos Santos 20 anos.
+
+Minha meta: Explorar diversos conceitos sobre HTML, CSS, JS e GitHub. E aprender a montar um site completo para meu Portfólio,
+o que servirá para meu crescimento profissional enquanto acadêmico.
+
+Use o comando para ver o status do repositório. O que mudou?
+Logo que dei o git status o arquivo sobre.txt já apareceu como modified
